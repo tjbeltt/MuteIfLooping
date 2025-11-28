@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: naaip-tunp2
+created: 2025-11-27T08:47:16-06:00
